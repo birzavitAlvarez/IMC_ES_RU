@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ИМТ</string>
+    <string name="mes1">Ваш индекс массы тела составляет:</string>
+    <string name="mes1_1"> Вам диагностирован дефицит питания</string>
+    <string name="mes1_2"> Ваше состояние нормальное</string>
+    <string name="mes1_3"> У вас избыточный вес</string>
+    <string name="mes1_4"> У вас ожирение 1-ой степени</string>
+    <string name="mes1_5"> У вас ожирение 2-ой степени</string>
+    <string name="mes1_6"> У вас ожирение 3-ой степени</string>
+    <string name="calculadora_imc"> Калькулятор ИМТ</string>
+    <string name="cambiar_idioma"> Изменить язык</string>
+    <string name="edad">Возраст:</string>
+    <string name="peso_kg">Вес (кг):</string>
+    <string name="estatura_cm">"Рост (см):</string>
+    <string name="calcular">Рассчитать</string>
+</resources>

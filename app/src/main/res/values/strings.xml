@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="mes1">Su indice de masa coporal es de:</string>
+    <string name="mes1_1"> Usted tiene Desnutricion</string>
+    <string name="mes1_2"> Usted esta Normal</string>
+    <string name="mes1_3"> Usted tiene Sobrepeso</string>
+    <string name="mes1_4"> Usted tiene Obesidad Grado 1</string>
+    <string name="mes1_5"> Usted tiene Obesidad Grado 2</string>
+    <string name="mes1_6"> Usted tiene Obesidad Grado 3</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
+    <string name="cambiar_idioma">Cambiar idioma</string>
+    <string name="edad">Edad:</string>
+    <string name="peso_kg">Peso (KG):</string>
+    <string name="estatura_cm">Estatura (CM):</string>
+    <string name="calcular">Calcular</string>
+</resources>
