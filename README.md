@@ -1,3 +1,9 @@
 # IMC_ES_RU
 CALCULANDO EL IMC
 CON AGREGACIÓN DE CAMBIAR IDIOMA A RUSO EL CUAL USA LOS RECURSOS DE STRINGS CUANDO EN TU CELULAR CAMBIAS TU IDIOMA PRINCIPAL A RUSO.
+
+![image](https://github.com/birzavitAlvarez/IMC_ES_RU/assets/67138065/da2af7de-811f-42c3-b639-bbaed01fd8a7)
+
+
+![image](https://github.com/birzavitAlvarez/IMC_ES_RU/assets/67138065/9dc4cfcf-96a3-4b33-b7d3-68182a0a4a8a)
+
